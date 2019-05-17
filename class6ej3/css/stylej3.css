@@ -1,0 +1,45 @@
+.container-fluid{
+  font-family: "Quicksand";
+}
+#txtitle{
+  color: #747704;
+  text-transform:  uppercase;
+  text-align:  right;
+}
+.w-100{
+  height: 10px;
+}
+#titlepag{
+  border-bottom: 5px solid #BCBBBB;
+  position:  static;
+  top: 0;
+  background-color: #ffffff;
+}
+#imagprin{
+  text-align: center;
+  padding-top: 25px;
+}
+#imag{
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+#txtimgtitle{
+  padding-left: 10%;
+  color: #BCBBBB;
+}
+#imag a{
+  color: #BCBBBB;
+  text-decoration: none;
+}
+#imag h2{
+  color: #747704;
+  font-size: 30px;
+  margin-bottom: 2px;
+}
+
+#txtitle h1{
+  font-size: 80px;
+  margin: 0 5px;
+  font-weight: normal;
+}

@@ -1,0 +1,40 @@
+#titletxt{
+  text-transform: uppercase;
+  color: #131A2D;
+  text-align: right;
+}
+h1{
+  font-size: 50px;
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+.w-100{
+  background-color: #D0C4AB;
+  height: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+#titlencab{
+  border-bottom: 5px solid #D0C4AB;
+  margin-bottom: 10px;
+  position: sticky;
+  top: 0;
+  background-color: #ffffff;
+}
+
+#bodypag{
+  background-color: #131A2D;
+  color: #D0C4AB;
+}
+#imag a{
+  color: #D0C4AB;
+  text-decoration: none;
+
+}
+#imag{
+  text-align: center;
+  margin-bottom: 20px;
+}
+#imgprin{
+  margin-top: 10px;
+}
